@@ -20,7 +20,7 @@ MarkupSafe==1.1.1
 mccabe==0.6.1
 packaging==20.4
 pycryptodome==3.9.8
-pylint==2.5.2
+pylint==2.7.0
 pylint-flask==0.6
 pylint-flask-sqlalchemy==0.2.0
 pylint-plugin-utils==0.6
